@@ -3,4 +3,4 @@
 I'm computer science bachelor's degree student. 
 </br>Currently mostly work with C++, but I'm also trying to learn something new regularly.
 
-!(Hedgehog eating...)[![image](https://github.com/ZipS1/ZipS1/assets/63783902/4219968c-cf5f-4523-9e59-bd172ff5ae44)]
+<img alt="*hedgehog eating here*" src="https://gifdb.com/images/high/close-up-chewing-hedgehog-w7lgdzh2i76n9ujn.gif"/>
