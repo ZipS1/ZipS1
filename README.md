@@ -14,14 +14,14 @@ Things I know the most:
 ### Basic knowledge
 
 Things I'm currently learning:
-- HTML, CSS, JS
-- Golang
-- Assembler - FASM 
+- **HTML, CSS, JS**
+- **Golang**
+- **Assembler - FASM**
 
 ### DBMS Basic knowledge
 
 I haven't a lot of practice with DBs
 <br>but here are some that I'm already work with:
-- PostgreSQL
-- MySQL
-- MongoDB
+- **PostgreSQL**
+- **MySQL**
+- **MongoDB**
