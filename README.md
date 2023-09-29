@@ -18,7 +18,7 @@ Things I'm currently learning:
 - **Golang**
 - **Assembler - FASM**
 
-### DBMS Basic knowledge
+### DBMS
 
 I haven't a lot of practice with DBs
 <br>but here are some that I'm already work with:
