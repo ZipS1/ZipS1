@@ -8,7 +8,7 @@ I'm computer science bachelor's degree student.
 Things I know the most:
 - **C++** *[Qt]*
 - **C#** *[Unity, EFCore, WinForms]*
-- **Python** *[Tkinter, scikit, matplotlib]*
+- **Python** *[Tkinter, telebot, scikit, matplotlib]*
 - **Git**
 
 ### Basic knowledge
