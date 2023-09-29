@@ -11,7 +11,7 @@ Things I know the most:
 - **Python** *[tkinter, telebot, scikit, matplotlib]*
 - **Git**
 
-### Basic knowledge
+### Basic level
 
 Things I'm currently learning:
 - **HTML, CSS, JS**
