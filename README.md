@@ -1,13 +1,11 @@
 ### Hey!
-I'm computer science bachelor's degree student. 
-
-## Current knowledge
+> I'm computer science bachelor's degree student from ChuvSU.
 
 ### Technologies *[Frameworks, libraries]*
 
 Things I know the most:
 - **C++** *[Qt]*
-- **C#** *[Unity, EFCore, WinForms]*
+- **C#** *[.NET, EFCore, WinForms, XUnit, Unity]*
 - **Python** *[tkinter, telebot, scikit, matplotlib]*
 - **Git**
 
