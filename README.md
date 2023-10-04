@@ -4,7 +4,7 @@
 ### Technologies *[Frameworks, libraries]*
 
 ✔️ Things I know the most:
-- **C++** *[Qt]*
+- **C/C++** *[Qt]*
 - **C#** *[.NET, EFCore, XUnit, Unity, WinForms]*
 - **Python** *[tkinter, telebot, scikit, matplotlib]*
 - **Git**
