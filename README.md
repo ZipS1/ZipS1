@@ -9,13 +9,6 @@
 - **Python** *[tkinter, telebot, scikit, matplotlib]*
 - **Git**
 
-### Basic level
-
-🎓Things I'm currently learning:
-- **HTML, CSS, JS**
-- **Golang**
-- **Assembler - FASM**
-
 ### DBMS
 
 📃I haven't a lot of practice with DBs
